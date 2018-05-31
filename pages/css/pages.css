@@ -16,3 +16,177 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+   
+.body{
+    background-color:#faf3e2;
+
+}
+img {
+    max-width: 100%; 
+}
+
+.container1{
+    
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-left:25px;
+    background-color:#d147bc;
+    position: relative;
+}
+
+.container2{
+    
+    display: block;
+    margin-left: 25px;
+    height: 100px;
+    width:100px;
+    background-color:#ebbb24;
+    position: relative;
+
+}
+
+.container3{
+    
+    display: block;
+    margin-left: 25px;
+    height: 100px;
+    width:100px;
+    background-color:#441738;
+    position: relative;
+}
+
+.container4{
+    
+    display: block;
+    margin-left: 25px;
+    height: 100px;
+    width:100px;
+    background-color:#ad3d20;
+    position: relative
+}
+
+.container5{
+
+    display: block;
+    margin-left: 25px;
+    height: 100px;
+    width:100px;
+    background-color:#30542e;
+    position: relative
+    
+}
+
+.container6{
+
+    display: block;
+    margin-left: 25px;
+    height: 100px;
+    width:100px;
+    background-color:#faf3e2;
+    position: relative
+    
+}
+
+.kop1{
+    color:#441738;
+    font-family: 'Montserrat ';
+    
+    
+}
+.kop2{
+    float: left;
+    color:#441738;
+    font-family: 'Montserrat ';
+}
+.kop3{
+    float: left;
+    color:#441738;
+    font-family: 'Montserrat ';
+}
+
+.tekst{
+   
+    color:#000000;
+    font-family: 'Lato ';
+    text-align: justify;
+}
+
+.navigatietekst{
+    color:#30542e;
+    font-family: 'Montserrat ';
+    float: left;
+}
+
+
+
+.display foto{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+.kop1{
+    font-family:"Montserrat Semibold"; font-size:"1";
+  
+}
+
+.kop2{
+    font-family:"Montserrat Regular"; font-size:"2";
+
+}
+
+.kop3{
+    font-family:"Montserrat Thin"; font-size:"3";
+
+}
+
+.tekst{
+    font-family:"Lato"; font-size:"4";
+}
+
+.navigatietekst{
+    font-family:"Montserrat Light"; font-size:"4";
+}
+
+
+.fotoslettertypes1{
+    height: 190%;
+    width: 36%;
+    margin-left: 20px;
+}
+
+.knoppen{
+    background-color:#ad3d20;
+    color: #ffffff;
+    border:#ebbb24;
+    text-align: :center;
+    padding: 14px 40px;
+    display: block;
+    font-size:20px;
+
+}
+
+img.fotos{
+    width:200px;
+    margin:10px;
+    margin-left:10px;
+    
+
+}
+
+.tekstbutton{
+    float: left;
+}
+
+img.buttons{
+    width:100px;
+    margin:10px;
+    margin-left:10px;
+    float: left;
+}
