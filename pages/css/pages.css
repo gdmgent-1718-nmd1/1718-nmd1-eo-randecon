@@ -148,7 +148,8 @@ img {
         font-family:'Montserrat', "Open Sans";
         text-align: center;
         font-size: 22pt;
-        line-height: 16pt;}
+        line-height: 16pt;
+        margin-left 25px;}
 .knop2:hover {
             background-color: #ebbb24;
             color: #ffffff;
