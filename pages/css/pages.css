@@ -122,34 +122,34 @@ img {
     border: #ebbb24;
     border-radius: 75%;
     color: #ffffff;
-    font-family:'Montserrat', sans-serif;
+    font-family:'Montserrat', "Open Sans";
     text-align: center;
     font-size: 14pt;
     margin-bottom: 10px;
     margin-left: 25px;
     }
 
-.button1:hover {
+.knop1:hover {
     background: #441738;
     color: #ffffff;
     border: #d147bc;
     border-radius: 75%;
     transition-duration: 1s;}
 
-.button2{
-        background-color: #3a3a3a;
+.knop2{
+        background-color: #faf3e2;
         height:75px;
         width: 240px;
-        border: none;
-        color: #ffffff;
-        font-family:'Raleway', sans-serif;
+        border: #ebbb24;
+        color: #ebbb24;
+        font-family:'Montserrat', "Open Sans";
         text-align: center;
-        font-size: 15pt;
+        font-size: 22pt;
         line-height: 16pt;}
-
-        .button2:hover {
-            background: #cea355;
+knop2:hover {
+            background: #ebbb24;
             color: #ffffff;
+            border: #d147bc;
             transition-duration: 1s;
         }
 
