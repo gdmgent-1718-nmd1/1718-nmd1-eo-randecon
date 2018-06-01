@@ -112,35 +112,7 @@ img {
 
 
 
-.kop1{
-    font-family:"Montserrat Semibold"; font-size:"1";
-  
-}
 
-.kop2{
-    font-family:"Montserrat Regular"; font-size:"2";
-
-}
-
-.kop3{
-    font-family:"Montserrat Thin"; font-size:"3";
-
-}
-
-.tekst{
-    font-family:"Lato"; font-size:"4";
-}
-
-.navigatietekst{
-    font-family:"Montserrat Light"; font-size:"4";
-}
-
-
-.fotoslettertypes1{
-    height: 190%;
-    width: 36%;
-    margin-left: 20px;
-}
 
 .button{
     background-color:#ad3d20;
@@ -172,41 +144,11 @@ img.buttons{
     float: left;
 }
 h1 {font-size: 24pt; color: #441738;font-weight: 600;
-	font-family: Montserrat, "Open Sans", Lato;}
+	font-family: Montserrat, "Open Sans";}
 h2 {font-size: 22pt;color: #441738;font-weight: 400;
-	font-family: Montserrat, "Open Sans", Lato;}
+	font-family: Montserrat, "Open Sans";}
 h3 {font-family: 'Montserrat', sans-serif; font-size: 20pt;color: #441738;}
 h4 {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 h5 {font-family: 'Montserrat', sans-serif; font-size: 12pt; color: #441738;}    
 p {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
-
-.kop1{
-    color:#441738;
-    font-family: 'Montserrat ';
-    
-    
-}
-.kop2{
-    float: left;
-    color:#441738;
-    font-family: 'Montserrat ';
-}
-.kop3{
-    float: left;
-    color:#441738;
-    font-family: 'Montserrat ';
-}
-
-.tekst{
-   
-    color:#000000;
-    font-family: 'Lato ';
-    text-align: justify;
-}
-
-.navigatietekst{
-    color:#30542e;
-    font-family: 'Montserrat ';
-    float: left;
-}
