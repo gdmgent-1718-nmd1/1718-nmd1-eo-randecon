@@ -129,7 +129,7 @@ button {
         cursor:pointer;
 }
 input[type=knoppen],
-button a:hover {
+.button a:hover {
     border:2px solid #d147bc;
     border-radius:10px;
     background-color:#000000;
