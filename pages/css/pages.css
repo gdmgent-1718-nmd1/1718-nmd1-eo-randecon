@@ -120,7 +120,7 @@ img {
     height:60px;
     width: 200px;
     border: #ebbb24;
-    border-radius: 95%;
+    border-radius: 30px;
     color: #ffffff;
     font-family:'Montserrat', "Open Sans";
     text-align: center;
@@ -133,7 +133,7 @@ img {
     background: #441738;
     color: #ffffff;
     border: #d147bc;
-    border-radius: 95%;
+    border-radius: 30px;
     transition-duration: 1s;}
 
 .knop2{
