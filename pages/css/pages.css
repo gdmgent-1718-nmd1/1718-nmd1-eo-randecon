@@ -159,10 +159,6 @@ h5 {Font-size: 12pt; font-weight: 300;
 p {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 
-/* The navbar container */
-.navigatietekst {
-    overflow: hidden;
-}
 
 /* Navbar links */
 .navigatietekst a {
