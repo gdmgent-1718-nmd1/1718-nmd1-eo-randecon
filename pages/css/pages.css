@@ -115,27 +115,43 @@ img {
 
 
 
-input[type=knoppen],
-button {
-        width:120px;
-        height:25px;
-        margin:0px 20px 0px 0px;
-        border:2px solid #ebbb24;
-        border-radius:10px;
-        background-color:#ad3d20;
-        color:#FFFFFF;
-        font-size:12px;
-        cursor:hand;
-        cursor:pointer;
-        margin-left: 25px;
-}
-input[type=knoppen],
-.button a:hover {
-    border:2px solid #d147bc;
-    border-radius:10px;
-    background-color:#000000;
-    color:#FFFFFF;
-}
+.knop1{
+    background-color: #ad3d20;
+    height:60px;
+    width: 200px;
+    border: #ebbb24;
+    border-radius: 75%;
+    color: #ffffff;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 14pt;
+    margin-bottom: 10px;
+    margin-left: 25px;
+    }
+
+.button1:hover {
+    background: #441738;
+    color: #ffffff;
+    border: #d147bc;
+    border-radius: 75%;
+    transition-duration: 1s;}
+
+.button2{
+        background-color: #3a3a3a;
+        height:75px;
+        width: 240px;
+        border: none;
+        color: #ffffff;
+        font-family:'Raleway', sans-serif;
+        text-align: center;
+        font-size: 15pt;
+        line-height: 16pt;}
+
+        .button2:hover {
+            background: #cea355;
+            color: #ffffff;
+            transition-duration: 1s;
+        }
 
 img.fotos{
     width:200px;
