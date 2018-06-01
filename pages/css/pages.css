@@ -147,7 +147,7 @@ img {
         font-size: 22pt;
         line-height: 16pt;}
 knop2:hover {
-            background: #ebbb24;
+            background-color: #ebbb24;
             color: #ffffff;
             border: #d147bc;
             transition-duration: 1s;
