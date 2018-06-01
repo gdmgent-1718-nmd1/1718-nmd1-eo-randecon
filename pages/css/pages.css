@@ -130,12 +130,13 @@ img {
     margin-left: 25px;
     }
 
-.knop1:hover {
+.knop1:hover{
     background: #441738;
     color: #ffffff;
     border-color: #d147bc;
     border-radius: 20px;
     border-width: 3px;
+}
    
 
 .knop2{
@@ -149,14 +150,14 @@ img {
         text-align: center;
         font-size: 22pt;
         line-height: 16pt;
-        margin-left 25px;}
-.knop2:hover {
+        margin-left: 25px;
+    }
+.knop2:hover{
             background-color: #ebbb24;
             color: #ffffff;
             border-color: #d147bc;
             border-width: 4px;
-            
-        }
+}
 
 img.fotos{
     width:200px;
