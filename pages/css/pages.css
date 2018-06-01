@@ -136,7 +136,7 @@ img {
     border-color: #d147bc;
     border-radius: 20px;
     border-width: 3px;
-    transition-duration: 1s;}
+   
 
 .knop2{
         background-color: #faf3e2;
@@ -154,7 +154,7 @@ img {
             color: #ffffff;
             border-color: #d147bc;
             border-width: 4px;
-            transition-duration: 1s;
+            
         }
 
 img.fotos{
