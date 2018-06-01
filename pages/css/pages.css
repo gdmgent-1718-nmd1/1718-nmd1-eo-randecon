@@ -35,6 +35,17 @@ img {
     
 }
 
+.container1x{
+    
+    display: block;
+    height: 100%;
+    width: 30%;
+    margin-left:25px;
+    border:#d147bc;
+    position: absolute;
+    
+}
+
 .container2{
     
     display: block;
