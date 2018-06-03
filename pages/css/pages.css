@@ -171,25 +171,31 @@ h5 {Font-size: 12pt; font-weight: 300;
 p {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 li {font-family: 'Lato', sans-serif; font-size: 12pt; color: #000000;}
 
-li.nav {
-    float: left;
+
+ul.menu {
+	list-style-type: none;
+	overflow: hidden;
+}
+li.menu {
+	float: left;
 	border-style: none;
 	border-top-right-radius: 0px px;
 	border-bottom-right-radius: 10px 0px;
-}
-/* Navbar links */
-.nav{
-    float: left;
-    margin-left: 25px;
-    color: #30542e;
-    text-align: center;
-    
-}
+} 
+li.menu a {
+	
+    color: white;
+    font-family: 'merriweather';
+    font-weight: bold;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+	font-size: medium;
 
-/* Links - change color on hover */
-.nav:hover {
-    color: #ad3d20;
-    text-decoration: underline;
+}
+li.menu a:hover {
+    border-color: #ffffff;
+	border-style: solid solid;
 }
 .link {
     color:#30542e;
