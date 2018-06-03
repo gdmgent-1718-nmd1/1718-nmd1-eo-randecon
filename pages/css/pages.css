@@ -19,7 +19,7 @@ img {
    
 .body{
     background-color:#faf3e2;
-    background: #faf3e2;
+    
 
 }
 img {
@@ -159,24 +159,6 @@ img {
             border-width: 4px;
 }
 
-img.fotos{
-    width:200px;
-    margin:10px;
-    margin-left:10px;
-    
-
-}
-
-.tekstbutton{
-    float: left;
-}
-
-img.buttons{
-    width:100px;
-    margin:10px;
-    margin-left:10px;
-    float: left;
-}
 h1 {font-size: 24pt; color: #441738; font-weight: 600;
 	font-family: Montserrat, "Open Sans"; margin-left: 25px;}
 h2 {font-size: 22pt;color: #441738; font-weight: 400;
