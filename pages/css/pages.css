@@ -184,7 +184,7 @@ li.menu {
 } 
 li.menu a {
 	
-    color: white;
+    color: #30542e;
     font-family: 'merriweather';
     font-weight: bold;
 	text-align: center;
@@ -194,6 +194,8 @@ li.menu a {
 
 }
 li.menu a:hover {
+    color: #ad3d20;
+    text-decoration: underline;
     border-color: #ffffff;
 	border-style: solid solid;
 }
