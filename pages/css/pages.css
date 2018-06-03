@@ -191,3 +191,12 @@ li.nav {
     color: #ad3d20;
     text-decoration: underline;
 }
+.link {
+    color:#30542e;
+    text-decoration: underline; 
+
+}
+.link:hover {
+    color:#ad3d20;
+    text-decoration: underline;
+}
